@@ -1,6 +1,6 @@
-# Nyamz To-Do
+# To-Do-List
 
-A full-stack task management application built with React, TypeScript, Flask, and MySQL. Nyamz To-Do gives users a clean dashboard for creating, organizing, tracking, and completing tasks with authentication, project grouping, priorities, due dates, and productivity statistics.
+A full-stack task management application built with React, TypeScript, Flask, and MySQL.To-Do-List gives users a clean dashboard for creating, organizing, tracking, and completing tasks with authentication, project grouping, priorities, due dates, and productivity statistics.
 
 ## Features
 
@@ -44,7 +44,7 @@ A full-stack task management application built with React, TypeScript, Flask, an
 ## Project Structure
 
 ```text
-Nyamz_To-Do/
+To-Do-List/
 |-- backend/
 |   |-- app.py              # Flask API and authentication logic
 |   |-- init_db.py          # Database creation and migration helper
@@ -76,8 +76,8 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd Nyamz_To-Do
+git clone https://github.com/Runako20004
+cd To-Do-List
 ```
 
 ### 2. Configure the backend
