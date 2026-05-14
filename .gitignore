@@ -1,0 +1,53 @@
+# Node (frontend)
+node_modules/
+frontend/node_modules/
+frontend/build/
+build/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# Python (backend)
+venv/
+.env
+*.pyc
+__pycache__/
+*.sqlite3
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+coverage/
+dist/
+
+# Env files and local configs
+.env
+.env.*
+frontend/.env*
+backend/.env*
+
+# Python virtualenvs and runtime files
+.venv/
+venv/
+.python-version
+
+# Logs and runtime artifacts
+logs/
+*.log
